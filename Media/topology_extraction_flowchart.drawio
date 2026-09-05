@@ -1,0 +1,84 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="tLW-bZPIzZqbLEYZ0S50">
+    <mxGraphModel dx="968" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7xbU9lALp5IYnONwHr97-3" edge="1" parent="1" source="7xbU9lALp5IYnONwHr97-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="7xbU9lALp5IYnONwHr97-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;GetLogicalProcessorInformationEx()&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-11" edge="1" parent="1" source="7xbU9lALp5IYnONwHr97-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="7xbU9lALp5IYnONwHr97-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="300" />
+              <mxPoint x="300" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-12" connectable="0" parent="7xbU9lALp5IYnONwHr97-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="EfficiencyClass &amp;gt;= 1" vertex="1">
+          <mxGeometry relative="1" x="0.6465" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-13" edge="1" parent="1" source="7xbU9lALp5IYnONwHr97-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7xbU9lALp5IYnONwHr97-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="300" />
+              <mxPoint x="520" y="300" />
+            </Array>
+            <mxPoint x="520" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-14" connectable="0" parent="7xbU9lALp5IYnONwHr97-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="EfficiencyClass == 0" vertex="1">
+          <mxGeometry relative="1" x="0.6897" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Construct Shared L3 Bitmask" vertex="1">
+          <mxGeometry height="50" width="140" x="330" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assign P-CORE" vertex="1">
+          <mxGeometry height="40" width="100" x="250" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-20" edge="1" parent="1" source="7xbU9lALp5IYnONwHr97-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="7xbU9lALp5IYnONwHr97-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="454" />
+              <mxPoint x="440" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-22" connectable="0" parent="7xbU9lALp5IYnONwHr97-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Bitmask Overlap" vertex="1">
+          <mxGeometry relative="1" x="0.6002" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-21" edge="1" parent="1" source="7xbU9lALp5IYnONwHr97-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="7xbU9lALp5IYnONwHr97-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="454" />
+              <mxPoint x="600" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-23" connectable="0" parent="7xbU9lALp5IYnONwHr97-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="No Bitmask Overlap" vertex="1">
+          <mxGeometry relative="1" x="0.6002" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Check Core Mask against&amp;nbsp;Shared L3 Bitmask" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assign E-CORE" vertex="1">
+          <mxGeometry height="40" width="100" x="390" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="7xbU9lALp5IYnONwHr97-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assign LP E-CORE" vertex="1">
+          <mxGeometry height="40" width="100" x="550" y="514" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

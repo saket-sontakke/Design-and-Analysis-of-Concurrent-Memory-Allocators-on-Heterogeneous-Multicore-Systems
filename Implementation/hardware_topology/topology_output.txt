@@ -1,0 +1,86 @@
+Detecting detailed system topology...
+
+=================== SYSTEM & HARDWARE IDENTIFICATION ===================
+CPU Brand String:       Intel(R) Core(TM) Ultra 5 125H
+CPU Vendor:             GenuineIntel
+Architecture Signature: Family 6, Model 170, Stepping 4
+Hybrid Architecture:    Yes (Intel Hybrid Tech)
+Physical Sockets:       1
+NUMA Nodes:             1
+
+=================== CORE & THREAD TOPOLOGY SUMMARY ===================
+Total Physical Cores:     14
+Total Logical Processors: 18
+P-Cores:        4    | Combined Mask: 0xfc03   | Threads: 0, 1, 10, 11, 12, 13, 14, 15
+E-Cores:        8    | Combined Mask: 0x3fc    | Threads: 2, 3, 4, 5, 6, 7, 8, 9
+LP E-Cores:     2    | Combined Mask: 0x30000  | Threads: 16, 17
+
+================ CACHE HARDWARE AGGREGATION (PHYSICAL TOTALS) ================
+Total L1 Data Cache:        512 KB
+Total L1 Instruction Cache: 896 KB
+Total Combined L1 Cache:    1408 KB (1.375 MB)
+Total L2 Cache:             14336 KB (14 MB)
+Total L3 Cache (Shared):    18432 KB (18 MB)
+
+================ PER-CORE DETAILED TOPOLOGY BREAKDOWN ================
+Core# Type       EffCls  SMT   Logical Thread(s)   L1d (KB)   L1i (KB)   L2 (KB)   L3 Access   Mask (Hex)  
+---------------------------------------------------------------------------------------------------------
+0     P-Core     1       Yes   0, 1                48         64         2048      Yes         0x3
+1     E-Core     0       No    2                   32         64         2048      Yes         0x4
+2     E-Core     0       No    3                   32         64         2048      Yes         0x8
+3     E-Core     0       No    4                   32         64         2048      Yes         0x10
+4     E-Core     0       No    5                   32         64         2048      Yes         0x20
+5     E-Core     0       No    6                   32         64         2048      Yes         0x40
+6     E-Core     0       No    7                   32         64         2048      Yes         0x80
+7     E-Core     0       No    8                   32         64         2048      Yes         0x100
+8     E-Core     0       No    9                   32         64         2048      Yes         0x200
+9     P-Core     1       Yes   10, 11              48         64         2048      Yes         0xc00
+10    P-Core     1       Yes   12, 13              48         64         2048      Yes         0x3000
+11    P-Core     1       Yes   14, 15              48         64         2048      Yes         0xc000
+12    LP E-Core  0       No    16                  32         64         2048      No          0x10000
+13    LP E-Core  0       No    17                  32         64         2048      No          0x20000
+
+================ PHYSICAL CACHE BLOCK INSTANCES =================
+Lvl   Type         Size      Line Size   Associativity   Shared Logical Threads      
+-------------------------------------------------------------------------------------
+L1    Data         48 KB     64 B        12-way          0, 1
+L1    Instruction  64 KB     64 B        16-way          0, 1
+L2    Unified      2048 KB   64 B        16-way          0, 1
+L3    Unified      18432 KB  64 B        12-way          0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+L1    Data         32 KB     64 B        8-way           2
+L1    Instruction  64 KB     64 B        8-way           2
+L2    Unified      2048 KB   64 B        16-way          2, 3, 4, 5
+L1    Data         32 KB     64 B        8-way           3
+L1    Instruction  64 KB     64 B        8-way           3
+L1    Data         32 KB     64 B        8-way           4
+L1    Instruction  64 KB     64 B        8-way           4
+L1    Data         32 KB     64 B        8-way           5
+L1    Instruction  64 KB     64 B        8-way           5
+L1    Data         32 KB     64 B        8-way           6
+L1    Instruction  64 KB     64 B        8-way           6
+L2    Unified      2048 KB   64 B        16-way          6, 7, 8, 9
+L1    Data         32 KB     64 B        8-way           7
+L1    Instruction  64 KB     64 B        8-way           7
+L1    Data         32 KB     64 B        8-way           8
+L1    Instruction  64 KB     64 B        8-way           8
+L1    Data         32 KB     64 B        8-way           9
+L1    Instruction  64 KB     64 B        8-way           9
+L1    Data         48 KB     64 B        12-way          10, 11
+L1    Instruction  64 KB     64 B        16-way          10, 11
+L2    Unified      2048 KB   64 B        16-way          10, 11
+L1    Data         48 KB     64 B        12-way          12, 13
+L1    Instruction  64 KB     64 B        16-way          12, 13
+L2    Unified      2048 KB   64 B        16-way          12, 13
+L1    Data         48 KB     64 B        12-way          14, 15
+L1    Instruction  64 KB     64 B        16-way          14, 15
+L2    Unified      2048 KB   64 B        16-way          14, 15
+L1    Data         32 KB     64 B        8-way           16
+L1    Instruction  64 KB     64 B        8-way           16
+L2    Unified      2048 KB   64 B        16-way          16, 17
+L1    Data         32 KB     64 B        8-way           17
+L1    Instruction  64 KB     64 B        8-way           17
+
+================ EXECUTION PINNING VERIFICATION ================
+Successfully pinned thread to P-Cores. Currently executing on: P-Core
+Successfully pinned thread to E-Cores. Currently executing on: E-Core
+Successfully pinned thread to LP E-Cores. Currently executing on: LP E-Core

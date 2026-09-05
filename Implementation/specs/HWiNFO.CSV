@@ -1,0 +1,2685 @@
+
+LENOVO-YOGA-7-1
+
+"Computer Name:","LENOVO-YOGA-7-1"
+"Computer Brand Name:","LENOVO 83DJ"
+"Operating System:","Microsoft Windows 11 Home Single Language (x64) Build 26200.9168 (25H2)"
+"UEFI Boot:","Present"
+"Secure Boot:","Enabled"
+"Hypervisor-protected Code Integrity (HVCI):","Enabled"
+"Current User Name:","Saket Sontakke"
+"Virtual Machine Warning:","Microsoft Hyper-V is active. Some results may not reflect real hardware !"
+
+Central Processor(s)
+
+"Number Of Processor Packages (Physical):","1"
+"Number Of Processor Cores:","14"
+"Number Of Logical Processors:","18"
+
+Intel Core Ultra 5 125H
+
+"Processor Name:","Intel Core Ultra 5 125H"
+"Original Processor Frequency:","3000.0 MHz"
+"Original Processor Frequency [MHz]:","3000"
+"CPU ID:","000A06A4"
+"CPU Brand Name:","Intel(R) Core(TM) Ultra 5 125H"
+"CPU Vendor:","GenuineIntel"
+"CPU Stepping:","C0"
+"CPU Code Name:","Meteor Lake-H"
+"CPU Technology:","Intel 4"
+"CPU S-Spec:","SRMZ4"
+"CPU Thermal Design Power (TDP):","28.0 W"
+"CPU VR Thermal Design Current (TDC):","61.0 A"
+"CPU Power Limits (Max):","Power = Unlimited, Time = 256.00 sec"
+"CPU Power Limit 1 (Long Duration)/Processor Base Power (PBP):"," (15.00 W) (28.00 sec) [Unlocked]"
+"CPU Power Limit 2 (Short Duration)/Maximum Turbo Power (MTP):"," (38.00 W) (2.44 ms) [Unlocked]"
+"CPU Power Limit 4 (PL4):","120.0 W"
+"Configurable TDP Level 1 (Down):","20.00 W (Unlimited range), 1000 MHz"
+"Configurable TDP Level 2 (Up):","65.00 W (Unlimited range), 3000 MHz"
+"Current Configurable TDP Level:","Nominal (Legacy) [Unlocked]"
+"CPU Max. Junction Temperature (Tj,max):","110 °C"
+"CPU Type:","Production Unit"
+"CPU Platform:","BGA2049"
+"Microcode Update Revision:","2A"
+"Number of CPU Cores:","4 x Performance, 8 x Efficient, 2 x Low Power Efficient"
+"Number of Logical CPUs:","8 x Performance, 8 x Efficient, 2 x Low Power Efficient"
+"CPU MFM (Low Power):","400.0 MHz = 4 x 100.0 MHz"
+"CPU LFM (Minimum):","400.0 MHz = 4 x 100.0 MHz"
+"CPU HFM (Base):","3000.0 MHz = 30 x 100.0 MHz"
+"CPU Turbo Max:","4500.0 MHz = 45 x 100.0 MHz [Unlocked]"
+"Turbo Ratio Limits (P-cores):","45x (1-2c), 43x (3-8c)"
+"Turbo Ratio Limits (E-cores):","36x (1-4c), 31x (5-6c), 28x (7-8c)"
+"CPU Current:","1596.2 MHz = 16 x 99.8 MHz @ 0.6475 V"
+"LLC/Ring Maximum:","3100.0 MHz = 31.00 x 100.0 MHz"
+"LLC/Ring Current:","1596.2 MHz = 16.00 x 99.8 MHz @ 0.6831 V"
+"PCI-Express Current Clock:","99.8 MHz = 1.00 x 99.8 MHz"
+"L1 Cache (P-cores):","Instruction: 4 x 64 KBytes, Data: 4 x 48 KBytes"
+"L1 Cache (E-cores):","Instruction: 8 x 64 KBytes, Data: 8 x 32 KBytes"
+"L1 Cache (E-cores (LP)):","Instruction: 2 x 64 KBytes, Data: 2 x 32 KBytes"
+"L2 Cache (P-cores):","Integrated: 4 x 2 MBytes"
+"L2 Cache (E-cores):","Integrated: 2 x 2 MBytes"
+"L2 Cache (E-cores (LP)):","Integrated: 2 MBytes"
+"L3 Cache:","18 MBytes"
+"FPU on Chip","Present"
+"Enhanced Virtual-86 Mode","Present"
+"I/O Breakpoints","Present"
+"Page Size Extensions","Present"
+"Time Stamp Counter","Present"
+"Pentium-style Model Specific Registers","Present"
+"Physical Address Extension","Present"
+"Machine Check Exception","Present"
+"CMPXCHG8B Instruction","Present"
+"APIC On Chip / PGE (AMD)","Present"
+"Fast System Call","Present"
+"Memory Type Range Registers","Present"
+"Page Global Feature","Present"
+"Machine Check Architecture","Present"
+"CMOV Instruction","Present"
+"Page Attribute Table","Present"
+"36-bit Page Size Extensions","Present"
+"Processor Number","Not Present"
+"CLFLUSH Instruction","Present"
+"Debug Trace and EMON Store","Not Present"
+"Internal ACPI Support","Present"
+"MMX Technology","Present"
+"Fast FP Save/Restore (IA MMX-2)","Present"
+"Streaming SIMD Extensions","Present"
+"Streaming SIMD Extensions 2","Present"
+"Self-Snoop","Present"
+"Multi-Threading Capable","Present"
+"Automatic Clock Control","Present"
+"IA-64 Processor","Not Present"
+"Signal Break on FERR","Present"
+"Virtual Machine Extensions (VMX)","Not Present"
+"Safer Mode Extensions (Intel TXT)","Not Present"
+"Streaming SIMD Extensions 3","Present"
+"Supplemental Streaming SIMD Extensions 3","Present"
+"Streaming SIMD Extensions 4.1","Present"
+"Streaming SIMD Extensions 4.2","Present"
+"AVX Support","Present"
+"Fused Multiply Add (FMA)","Present"
+"Carryless Multiplication (PCLMULQDQ)/GFMUL","Present"
+"CMPXCHG16B Support","Present"
+"MOVBE Instruction","Present"
+"POPCNT Instruction","Present"
+"XSAVE/XRSTOR/XSETBV/XGETBV Instructions","Present"
+"XGETBV/XSETBV OS Enabled","Present"
+"Float16 Instructions","Present"
+"AES Cryptography Support","Present"
+"Random Number Read Instruction (RDRAND)","Present"
+"Extended xAPIC","Present"
+"MONITOR/MWAIT Support","Present"
+"Thermal Monitor 2","Present"
+"Enhanced SpeedStep Technology","Present"
+"L1 Context ID","Not Present"
+"Send Task Priority Messages Disabling","Present"
+"Processor Context ID","Present"
+"Direct Cache Access","Not Present"
+"TSC-deadline Timer","Present"
+"Performance/Debug Capability MSR","Present"
+"IA32 Debug Interface Support","Not Present"
+"64-Bit Debug Store","Not Present"
+"CPL Qualified Debug Store","Not Present"
+"64-bit Extensions","Present"
+"RDTSCP and TSC_AUX Support","Present"
+"1 GB large page support","Present"
+"No Execute","Present"
+"SYSCALL/SYSRET Support","Present"
+"Bit Manipulation Instructions Set 1","Present"
+"Bit Manipulation Instructions Set 2","Present"
+"Advanced Vector Extensions 2 (AVX2)","Present"
+"Advanced Vector Extensions 512 (AVX-512) Foundation","Not Present"
+"AVX-512 Prefetch Instructions","Not Present"
+"AVX-512 Exponential and Reciprocal Instructions","Not Present"
+"AVX-512 Conflict Detection Instructions","Not Present"
+"AVX-512 Doubleword and Quadword Instructions","Not Present"
+"AVX-512 Byte and Word Instructions","Not Present"
+"AVX-512 Vector Length Extensions","Not Present"
+"AVX-512 52-bit Integer FMA Instructions","Not Present"
+"Secure Hash Algorithm (SHA) Extensions","Present"
+"Software Guard Extensions (SGX) Support","Not Present"
+"Supervisor Mode Execution Protection (SMEP)","Present"
+"Supervisor Mode Access Prevention (SMAP)","Present"
+"Hardware Lock Elision (HLE)","Not Present"
+"Restricted Transactional Memory (RTM)","Not Present"
+"Memory Protection Extensions (MPX)","Not Present"
+"Read/Write FS/GS Base Instructions","Present"
+"Enhanced Performance String Instruction","Present"
+"INVPCID Instruction","Present"
+"RDSEED Instruction","Present"
+"Multi-precision Add Carry Instructions (ADX)","Present"
+"PCOMMIT Instructions","Not Present"
+"CLFLUSHOPT Instructions","Present"
+"CLWB Instructions","Present"
+"Time-Stamp Counter Adjustment","Not Present"
+"Platform Quality of Service Monitoring (PQM)","Not Present"
+"Platform Quality of Service Enforcement (PQE)","Not Present"
+"FPU Data Pointer updated only on x87 Exceptions","Not Present"
+"Deprecated FPU CS and FPU DS","Present"
+"Intel Processor Trace","Present"
+"PREFETCHWT1 Instruction","Not Present"
+"AVX-512 Vector Bit Manipulation Instructions","Not Present"
+"AVX-512 Vector Bit Manipulation Instructions 2","Not Present"
+"AVX-512 Galois Fields New Instructions","Present"
+"AVX-512 Vector AES","Present"
+"AVX-512 Vector Neural Network Instructions","Not Present"
+"AVX-512 Bit Algorithms","Not Present"
+"AVX-512 Carry-Less Multiplication Quadword (VPCLMULQDQ)","Present"
+"AVX-512 Vector POPCNT (VPOPCNTD/VPOPCNTQ)","Not Present"
+"User-Mode Instruction Prevention","Present"
+"Protection Keys for User-mode Pages","Not Present"
+"OS Enabled Protection Keys","Not Present"
+"Wait and Pause Enhancements (WAITPKG)","Present"
+"Total Memory Encryption","Not Present"
+"Key Locker","Not Present"
+"57-bit Linear Addresses, 5-level Paging","Not Present"
+"Read Processor ID","Present"
+"OS Bus-Lock Detection","Not Present"
+"Cache Line Demote","Not Present"
+"MOVDIRI: Direct Stores","Present"
+"MOVDIR64B: Direct Stores","Present"
+"ENQCMD: Enqueue Stores","Not Present"
+"SGX Launch Configuration","Not Present"
+"Protection Keys for Supervisor-Mode Pages","Not Present"
+"Control-Flow Enforcement Technology (CET) Shadow Stack","Present"
+"Attestation Services for Intel SGX","Not Present"
+"AVX-512 4 x Vector Neural Network Instructions Word Variable Precision","Not Present"
+"AVX-512 4 x Fused Multiply Accumulation Packed Single Precision","Not Present"
+"Fast Short REP MOV","Present"
+"User Interrupts","Not Present"
+"AVX-512 VP2INTERSECT Support","Not Present"
+"AVX-512 FP16","Not Present"
+"MD_CLEAR Support","Present"
+"IA32_MCU_OPT_CTRL MSR Support","Not Present"
+"Restricted Transactional Memory (RTM) Always Abort","Not Present"
+"Restricted Transactional Memory (RTM) Force Abort","Not Present"
+"SERIALIZE","Present"
+"Hybrid Processor","Present"
+"TSX Suspend Load Address Tracking","Not Present"
+"Platform Configuration (PCONFIG)","Not Present"
+"Architectural LBRs","Present"
+"Indirect Branch Restricted Speculation (IBRS), Indirect Branch Predictor Barrier (IBPB)","Present"
+"Single Thread Indirect Branch Predictors (STIBP)","Present"
+"L1D_FLUSH Support","Present"
+"IA32_ARCH_CAPABILITIES MSR","Present"
+"IA32_CORE_CAPABILITIES MSR","Not Present"
+"Speculative Store Bypass Disable (SSBD)","Present"
+"Control-Flow Enforcement Technology (CET) Indirect Branch Tracking","Present"
+"Advanced Matrix Extensions (AMX) Tile Architecture","Not Present"
+"Advanced Matrix Extensions (AMX) bfloat16 Support","Not Present"
+"Advanced Matrix Extensions (AMX) 8-bit Integer Operations","Not Present"
+"SHA512 Instructions","Not Present"
+"SM3 Instructions","Not Present"
+"SM4 Instructions","Not Present"
+"Advanced Matrix Extensions (AMX) FP16 Instructions","Not Present"
+"AVX (VEX-encoded) Vector Neural Network Instructions","Present"
+"AVX-512 BFLOAT16 Instructions","Not Present"
+"Fast Zero-Length MOVSB","Not Present"
+"Fast Short STOSB","Present"
+"Fast Short CMPSB, SCASB","Not Present"
+"History Reset","Present"
+"Linear Address Masking","Not Present"
+"Linear Address Space Separation","Not Present"
+"RAO-INT Instructions","Not Present"
+"CMPccXADD Instructions","Not Present"
+"Flexible Return and Event Delivery (FRED)","Not Present"
+"LKGS Instruction","Not Present"
+"WRMSRNS Instruction","Not Present"
+"NMI-source Reporting","Not Present"
+"AVX-IFMA Instructions","Not Present"
+"RD/WR MSRLIST Instructions","Not Present"
+"INVD Execution Prevention After BIOS-Done","Not Present"
+"Move Read-Shared Value (MOVRS)","Not Present"
+"Protected Processor Inventory Number (IA32_PPIN) Support","Not Present"
+"PBNDKB Instruction","Not Present"
+"Asymmetrical Intel RDT Monitoring capability","Not Present"
+"Asymmetrical Intel RDT Allocation capability","Not Present"
+"X86S (Legacy-reduced OS ISA)","Not Present"
+"64-bit SIPI","Not Present"
+"RDMSR/WRMSR Immediate Forms","Not Present"
+"AVX-VNNI-INT8 Instructions","Not Present"
+"AVX-VNNI-INT16 Instructions","Not Present"
+"AVX-NE-CONVERT Instructions","Not Present"
+"PREFETCHIT0/1 Instructions","Not Present"
+"URDMSR/UWRMSR Instructions","Not Present"
+"AMX-COMPLEX Instructions","Not Present"
+"CET Supervisor Shadow-Stack","Not Present"
+"UIRET Support","Not Present"
+"User-Timer Events","Not Present"
+"MWAIT Instruction","Not Present"
+"Static Lockstep Mode","Not Present"
+"Trusted Execution Environment Attestation Rooted in Security Engine","Not Present"
+"Advanced Vector Extensions 10 (AVX10)","Not Present"
+"Advanced Performance Extensions (APX) Foundation","Not Present"
+"Not Exhibiting MXCSR Configuration Dependent Timing (MCDT)","Not Present"
+"UC-Lock Disable Feature","Not Present"
+"Rogue Data Cache Load (RDCL):","Not Susceptible"
+"Speculative Store Bypass (SSB):","Susceptible"
+"Microarchitectural Data Sampling (MDS):","Not Susceptible"
+"MCE on modifying code page size without TLB invalidation:","Not Susceptible"
+"Transactional Asynchronous Abort (TAA):","Not Affected"
+"Shared Buffers Data Read (SBDR), Sideband Stale Data Propagator (SSDP) Vulnerability:","Not Affected"
+"Fill Buffer Stale Data Propagator (FBSDP) Vulnerability:","Not Affected"
+"Primary Stale Data Propagator (PSDP) Vulnerability:","Not Affected"
+"Post-barrier Return Stack Buffer Predictions Vulnerability:","Affected"
+"Gather Data Sampling Vulnerability:","Not Affected"
+"Register File Data Sampling Vulnerability:","Not Affected"
+"Indirect Target Selection:","Not Affected"
+"Indirect Branch Restriction Speculation (IBRS):","Supported"
+"RTM_DISABLE and TSX_CPUID_CLEAR:","Not Supported"
+"RSB Alternate:","Supported"
+"L1D Flush on VM Entry Not Needed:","Supported"
+"Data Operand Independent Timing Mode (DOITM):","Not Supported"
+"Energy Filtering Control:","Not Supported"
+"Data Operand Independent Timing Mode:","Not Supported"
+"RRSBA Alternate Prediction Behavior:","Not Supported"
+"BHI_NO Branch Prediction Behavior:","Not Supported"
+"MCU Enumeration MSR:","Not Supported"
+"MCU Extended Servicing:","Not Supported"
+"Overclocking Utilized:","Disabled"
+"Dynamic Overclocking Undervolt Protection:","Enabled"
+"Overclocking Secure Status:","Enabled"
+"Overclocking Opt-In:","Not Supported"
+"Thermal Monitor 1:","Supported, Enabled"
+"Thermal Monitor 2:","Supported, Enabled"
+"Enhanced Intel SpeedStep (GV3):","Supported, Enabled"
+"Bi-directional PROCHOT#:","Enabled"
+"Extended Auto-HALT State C1E:","Enabled"
+"MLC Streamer Prefetcher","Supported, Enabled"
+"MLC Spatial Prefetcher","Supported, Enabled"
+"DCU Streamer Prefetcher","Supported, Enabled"
+"DCU IP Prefetcher","Supported, Enabled"
+"Intel Dynamic Acceleration (IDA) Technology:","Not Supported"
+"Intel Dynamic FSB Switching:","Not Supported"
+"Intel Turbo Boost Technology:","Supported, Enabled"
+"Programmable Ratio Limits:","Supported, Disabled"
+"Programmable TDC/TDP Limits:","Supported, Disabled"
+"Hardware Duty Cycling:","Not Supported"
+"Intel Speed Select:","Not Supported"
+"NVME:","Supported"
+"DMI x4 Width:","Supported"
+"DRAM ECC:","Not Supported"
+"VT-d:","Supported"
+"DMI in Gen2 Mode:","Supported"
+"1N Mode DDR Timings:","Supported"
+"Camarillo (DTT) Device:","Supported"
+"2 DIMMs per Channel:","Not Supported"
+"X2APIC:","Supported"
+"Dual Memory Channel:","Supported"
+"Integrated GPU (IGD):","Enabled"
+"2 Level Memory (2LM):","Supported"
+"DDR Overclocking:","Disabled"
+"Maximum Memory Size per Channel:","32 GB (unlimited)"
+"DDR Frequency Support (100 MHz RefClk):","Not Supported"
+"IMGU/IPU Device:","Supported"
+"Intel Processor Trace (Northpeak):","Supported"
+"Overclocking:","Disabled"
+"Hyper-Threading (SMT):","Supported"
+"Compute Die:","Enabled"
+"PCIe Gen 3:","Supported"
+"DMI Gen 3:","Supported"
+"HDCP:","Supported"
+"L Technology:","1LM"
+"VMD:","Supported"
+"PCIe Gen 5:","Supported"
+"PCIe Gen 4:","Supported"
+"BCLK OC Limit:","100 MHz"
+"DDR4:","Not Supported"
+"LPDDR4:","Not Supported"
+"Dynamic Memory Frequency (QCLK GV):","Supported"
+"Software Guard Extension (SGX):","Supported"
+"DDR5:","Supported"
+"Maximum Supported DDR5 Frequency:","2800 MHz"
+"LPDDR5:","Supported"
+"Maximum Supported LPDDR5 Frequency:","4200 MHz"
+"VCC VR:","Monolithic Pwr Sys (0xa1), IMVP9.2"
+"VR Thermal Sensor:","Not Supported"
+"Maximum Physical Address Size:","46-bit (64 TBytes)"
+"Maximum Virtual Address Size:","48-bit (256 TBytes)"
+"Range 0-40000000 (0MB-1024MB) Type:","Write Back (WB)"
+"Range 40000000-60000000 (1024MB-1536MB) Type:","Write Back (WB)"
+"Range 60000000-70000000 (1536MB-1792MB) Type:","Write Back (WB)"
+"Range 480000000-480100000 (18432MB-18433MB) Type:","Uncacheable (UC)"
+"Range 70000000-80000000 (1792MB-2048MB) Type:","Write Combining (WC)"
+"Range 100000000-200000000 (4096MB-8192MB) Type:","Write Back (WB)"
+"Range 200000000-400000000 (8192MB-16384MB) Type:","Write Back (WB)"
+"Range 400000000-800000000 (16384MB-32768MB) Type:","Write Back (WB)"
+
+Motherboard
+
+"Computer Brand Name:","LENOVO 83DJ"
+"Motherboard Model:","LENOVO LNVNB161216"
+"Motherboard Chipset:","Intel Meteor Lake-H PCH"
+"Motherboard Slots:","4xPCI Express x1, 3xPCI Express x4"
+"PCI Express Version Supported:","v4.0"
+"USB Version Supported:","v4.0"
+"BIOS Manufacturer:","LENOVO"
+"BIOS Date:","06/23/2026"
+"BIOS Version:","NWCN27WW"
+"UEFI BIOS:","Capable"
+"ACPI Version:","6.3"
+"Super-IO/LPC Chip:","ITE IT5571"
+"Trusted Platform Module (TPM) Chip:","Hardware TPM, version 2.0"
+
+ACPI Devices
+
+
+I2C HID Device
+
+"Device Name:","I2C HID Device"
+"IRQ:","1024"
+
+Standard PS/2 Keyboard
+
+"Device Name:","Standard PS/2 Keyboard"
+"I/O Port:","0060"
+"I/O Port:","0000"
+"I/O Port:","0060"
+"I/O Port:","0064"
+"IRQ:","1"
+
+Intel(R) Serial IO GPIO Host Controller - INTC1083
+
+"Device Name:","Intel(R) Serial IO GPIO Host Controller - INTC1083"
+"Memory Location:","E0D40000 - E0D4FFFF"
+"IRQ:","14"
+"Memory Location:","E0D10000"
+"Memory Location:","E0D20000"
+"Memory Location:","E0D30000 - E0D3FFFF"
+"Memory Location:","E0D40000"
+"Memory Location:","E0D50000 - E0D5FFFF"
+"IRQ:","14"
+
+Motherboard resources
+
+"Device Name:","Motherboard resources"
+"I/O Port:","1854 - 1857"
+"I/O Port:","1854 - 1857"
+
+Trusted Platform Module 2.0
+
+"Device Name:","Trusted Platform Module 2.0"
+"Memory Location:","FED40000 - FED44FFF"
+"Memory Location:","FED40000 - FED44FFF"
+
+Programmable interrupt controller
+
+"Device Name:","Programmable interrupt controller"
+"I/O Port:","0020 - 0021"
+"I/O Port:","0030 - 0031"
+"I/O Port:","00A0 - 00A1"
+"I/O Port:","00B0 - 00B1"
+"IRQ:","1114369"
+"IRQ:","1114369"
+"IRQ:","1114369"
+"IRQ:","1114369"
+"I/O Port:","0020 - 0021"
+"I/O Port:","0024 - 0025"
+"I/O Port:","0028 - 0029"
+"I/O Port:","002C - 002D"
+"I/O Port:","0030 - 0031"
+"I/O Port:","0034 - 0035"
+"I/O Port:","0038 - 0039"
+"I/O Port:","003C - 003D"
+"I/O Port:","00A0 - 00A1"
+"I/O Port:","00A4 - 00A5"
+"I/O Port:","00A8 - 00A9"
+"I/O Port:","00AC - 00AD"
+"I/O Port:","00B0 - 00B1"
+"I/O Port:","00B4 - 00B5"
+"I/O Port:","00B8 - 00B9"
+"I/O Port:","00BC - 00BD"
+"I/O Port:","04D0 - 04D1"
+
+System timer
+
+"Device Name:","System timer"
+"I/O Port:","0040 - 0043"
+"DMA:","0"
+"I/O Port:","0040 - 0043"
+"I/O Port:","0050 - 0053"
+"IRQ:","0"
+
+High precision event timer
+
+"Device Name:","High precision event timer"
+"Memory Location:","FED00000 - FED003FF"
+"Memory Location:","FED00000 - FED003FF"
+
+PCI Express Root Complex
+
+"Device Name:","PCI Express Root Complex"
+"I/O Port:","0000 - FFFFFFFF"
+"Memory Location:","000A0000 - 000BFFFF"
+"I/O Port:","0000 - 0CF7"
+"I/O Port:","0D00 - FFFF"
+"Memory Location:","000A0000 - 000BFFFF"
+"Memory Location:","80000000 - BFFFFFFF"
+
+Motherboard resources
+
+"Device Name:","Motherboard resources"
+"Memory Location:","FEDC0000 - FEDC7FFF"
+"Memory Location:","FED20000 - FED7FFFF"
+"Memory Location:","FEDC0000 - FEDC7FFF"
+"Memory Location:","00000000 - 00000FFF"
+"Memory Location:","00000000 - 00000FFF"
+"Memory Location:","C0000000 - CFFFFFFF"
+"Memory Location:","FED20000 - FED7FFFF"
+"Memory Location:","FC800000 - FC81FFFF"
+"Memory Location:","FED45000 - FED8FFFF"
+"Memory Location:","FEE00000 - FEEFFFFF"
+
+Motherboard resources
+
+"Device Name:","Motherboard resources"
+"I/O Port:","002E - 002F"
+"I/O Port:","0065"
+"I/O Port:","0000 - 006F"
+"I/O Port:","0092"
+"IRQ:","1114369"
+"I/O Port:","002E - 002F"
+"I/O Port:","004E - 004F"
+"I/O Port:","0061"
+"I/O Port:","0063"
+"I/O Port:","0065"
+"I/O Port:","0067"
+"I/O Port:","0070"
+"I/O Port:","0080"
+"I/O Port:","0092"
+"I/O Port:","00B2 - 00B3"
+"I/O Port:","0680 - 069F"
+"I/O Port:","164E - 164F"
+
+Motherboard resources
+
+"Device Name:","Motherboard resources"
+"I/O Port:","2000 - 20FE"
+"I/O Port:","2000 - 20FE"
+
+Microsoft ACPI-Compliant Embedded Controller
+
+"Device Name:","Microsoft ACPI-Compliant Embedded Controller"
+"I/O Port:","0062"
+"I/O Port:","0062"
+"I/O Port:","0066"
+
+UCM-UCSI ACPI Device
+
+"Device Name:","UCM-UCSI ACPI Device"
+"Memory Location:","63DDF000 - 63DDFFFF"
+"Memory Location:","63DDF000 - 63DDFFFF"
+
+Wacom Device
+
+"Device Name:","Wacom Device"
+"IRQ:","1025"
+
+SMBIOS DMI
+
+
+BIOS
+
+"BIOS Vendor:","LENOVO"
+"BIOS Version:","NWCN27WW"
+"BIOS Release Date:","06/23/2026"
+"BIOS Start Segment:","0"
+"BIOS Size:","16 MBytes"
+"System BIOS Version:","1.27"
+"Embedded Controller Firmware Version:","1.27"
+"ISA Support:","Not Present"
+"MCA Support:","Not Present"
+"EISA Support:","Not Present"
+"PCI Support:","Present"
+"PC Card (PCMCIA) Support:","Not Present"
+"Plug-and-Play Support:","Not Present"
+"APM Support:","Not Present"
+"Flash BIOS:","Present"
+"BIOS Shadow:","Present"
+"VL-VESA Support:","Not Present"
+"ESCD Support:","Not Present"
+"Boot from CD:","Present"
+"Selectable Boot:","Present"
+"BIOS ROM Socketed:","Not Present"
+"Boot from PC Card:","Not Present"
+"EDD Support:","Present"
+"NEC PC-98 Support:","Not Present"
+"ACPI Support:","Present"
+"USB Legacy Support:","Present"
+"AGP Support:","Not Present"
+"I2O Boot Support:","Not Present"
+"LS-120 Boot Support:","Not Present"
+"ATAPI ZIP Drive Boot Support:","Not Present"
+"IEE1394 Boot Support:","Not Present"
+"Smart Battery Support:","Not Present"
+"BIOS Boot Specification Support:","Present"
+"Function key-initiated Network Service Boot Support:","Not Present"
+"Targeted Content Distribution Support:","Present"
+"UEFI Specification Support:","Present"
+"Virtual Machine:","Not Present"
+
+System
+
+"System Manufacturer:","LENOVO"
+"Product Name:","83DJ"
+"Product Version:","Yoga 7 2-in-1 14IML9"
+"Product Serial Number:","YX0AWJ8B"
+"UUID:","{20240519-1893-41D6-4D2C-189341D64D30}"
+"SKU Number:","LENOVO_MT_83DJ_BU_idea_FM_Yoga 7 2-in-1 14IML9"
+"Family:","Yoga 7 2-in-1 14IML9"
+
+Mainboard
+
+"Mainboard Manufacturer:","LENOVO"
+"Mainboard Name:","LNVNB161216"
+"Mainboard Version:","SDK0T76485 WIN"
+"Mainboard Serial Number:","YX0AWJ8B"
+"Asset Tag:","NO Asset Tag"
+"Location in chassis:","Type2 - Board Chassis Location"
+
+System Enclosure
+
+"Manufacturer:","LENOVO"
+"Case Type:","Convertible"
+"Version:","Yoga 7 2-in-1 14IML9"
+"Serial Number:","YX0AWJ8B"
+"Asset Tag Number:","NO Asset Tag"
+
+Processor
+
+"Processor Manufacturer:","Intel(R) Corporation"
+"Processor Version:","Intel(R) Core(TM) Ultra 5 125H"
+"External Clock:","100 MHz"
+"Maximum Clock Supported:","4500 MHz"
+"Current Clock:","3762 MHz"
+"CPU Socket:","Populated"
+"CPU Status:","Enabled"
+"Processor Type:","Central Processor"
+"Processor Voltage:","0.8 V"
+"Processor Upgrade:","Unknown (1)"
+"Socket Designation:","U3E1"
+
+L1 Cache
+
+"Socket Designation:","L1 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L1 Data"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Parity"
+"Maximum Cache Size:","192 KBytes"
+"Installed Cache Size:","192 KBytes"
+"Cache Associativity:","12-way Set-Associative"
+
+L1 Cache
+
+"Socket Designation:","L1 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L1 Instruction"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Parity"
+"Maximum Cache Size:","256 KBytes"
+"Installed Cache Size:","256 KBytes"
+"Cache Associativity:","16-way Set-Associative"
+
+L2 Cache
+
+"Socket Designation:","L2 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L2 Unified"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Single-bit ECC"
+"Maximum Cache Size:","8192 KBytes"
+"Installed Cache Size:","8192 KBytes"
+"Cache Associativity:","16-way Set-Associative"
+
+L3 Cache
+
+"Socket Designation:","L3 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L3 Unified"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Multi-bit ECC"
+"Maximum Cache Size:","18432 KBytes"
+"Installed Cache Size:","18432 KBytes"
+"Cache Associativity:","12-way Set-Associative"
+
+L1 Cache
+
+"Socket Designation:","L1 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L1 Data"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Parity"
+"Maximum Cache Size:","320 KBytes"
+"Installed Cache Size:","320 KBytes"
+"Cache Associativity:","8-way Set-Associative"
+
+L1 Cache
+
+"Socket Designation:","L1 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L1 Instruction"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Parity"
+"Maximum Cache Size:","640 KBytes"
+"Installed Cache Size:","640 KBytes"
+"Cache Associativity:","8-way Set-Associative"
+
+L2 Cache
+
+"Socket Designation:","L2 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L2 Unified"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Single-bit ECC"
+"Maximum Cache Size:","6144 KBytes"
+"Installed Cache Size:","6144 KBytes"
+"Cache Associativity:","16-way Set-Associative"
+
+L3 Cache
+
+"Socket Designation:","L3 Cache"
+"Cache State:","Enabled"
+"Cache Location:","Internal"
+"Cache Type:","L3 Unified"
+"Cache Scheme:","Write-Back"
+"Supported SRAM Type:","Synchronous"
+"Current SRAM Type:","Synchronous"
+"Cache Speed:","Unknown"
+"Error Correction Type:","Multi-bit ECC"
+"Maximum Cache Size:","18432 KBytes"
+"Installed Cache Size:","18432 KBytes"
+"Cache Associativity:","12-way Set-Associative"
+
+OEM Strings
+
+
+
+System Configuration Options
+
+
+
+
+
+BIOS Language
+
+
+
+
+
+
+
+
+
+
+Group Associations
+
+
+Group Associations
+
+
+System Event Log
+
+
+Built-in Pointing Device
+
+"Device Type:","Touch Pad"
+"Interface Type:","PS/2"
+"Number of Buttons:","4"
+
+Portable Battery
+
+"Battery Location:","In the back, on the bottom side"
+"Battery Manufacturer:","Sunwoda"
+"Manufacture Date:","08/16/2023"
+"Serial Number:","4A57"
+"Device Name:","L22D4PA1"
+"Device Chemistry:","Lithium-ion"
+"Design Capacity:","5464 mWh"
+"Design Voltage:","15360 mV"
+"SBDS Verison Number:",""
+"Max. Error in Battery Data:","1"
+"SBDS Serial Number:","Unknown"
+"SBDS Manufacture Date:","Unknown"
+"SBDS Device Chemistry:",""
+
+Hardware Security
+
+"Power-on Password:","Disabled"
+"Keyboard Password:","Disabled"
+"Administrator Password:","Disabled"
+"Front Panel Reset:","Disabled"
+
+Voltage Probe
+
+"Description:","Voltage Probe Description"
+"Location:","Unknown"
+"Status:","Unknown"
+"Maximum Value:","Unknown"
+"Minimum Value:","Unknown"
+"Resolution:","Unknown"
+"Tolerance:","Unknown"
+"Accuracy:","Unknown"
+
+Cooling Device
+
+"Type:","Fan"
+"Description:","Cooling Device Description"
+"Status:","OK"
+"Nominal Speed:","8192 RPM"
+
+Temperature Probe
+
+"Description:","Temperature Probe Description"
+"Location:","Unknown"
+"Status:","Unknown"
+"Maximum Value:","Unknown"
+"Minimum Value:","Unknown"
+"Nominal Value:","Unknown"
+"Resolution:","Unknown"
+"Tolerance:","Unknown"
+"Accuracy:","Unknown"
+
+System Boot Information
+
+"Boot Status:","No error occurred"
+
+System Power Supply
+
+"Location:","OEM Define 0"
+"Device Name:","OEM Define 1"
+"Manufacturer:","OEM Define 2"
+"Serial Number:","OEM Define 3"
+"Asset Tag Number:","OEM Define 4"
+"Model Part Number:","OEM Define 5"
+"Revision Level:","OEM Define 6"
+"Max Power Capacity:","75 mW"
+"Power Supply Status:","Not Present"
+"Power Supply Type:","Regulator"
+"Power Status:","OK"
+"Hot replaceable:","No"
+"Unplugged from wall:","Yes"
+
+Additional Information
+
+
+
+
+On Board Device
+
+"Device Description:","IGD"
+"Device Type:","Video Adapter"
+"Device Status:","Disabled"
+"Base Segment:Bus:Device:Function Number:","0:0:2:0"
+
+TPM
+
+"TPM Specification Version:","2.0"
+"TPM Vendor:","Intel"
+"TPM Description:","TPM Device"
+
+Intel ASF
+
+"Intel ASF Status:","Enabled"
+
+Intel vPro
+
+"Intel ME Version:","v18.0, Build 2062, Hotfix 5"
+"CPU VMX Support:","Supported"
+"CPU VMX Status:","Enabled"
+"CPU TXT Support:","Supported"
+"CPU TXT Status:","Disabled"
+"Intel ME Status:","Enabled"
+"Intel AMT Support:","Not Supported"
+"Intel Standard Manageability:","Not Supported"
+"KVM Support:","Not Supported"
+"KVM Status:","Disabled"
+"Local Wakeup Timer Support:","Not Supported"
+"BIOS VT-d Support:","Supported"
+"BIOS TXT Support:","Supported"
+"BIOS VT-x Support:","Supported"
+
+Firmware Version Information
+
+"BIOS Guard","2.1.0.970"
+
+Firmware Version Information
+
+"FSP Binary Version","0D.00.00A1.0030"
+
+Firmware Version Information
+
+"Reference Code - CPU","13.0.161.48"
+"uCode Version","0.0.0.42"
+"TXT ACM version","1.19.20.0"
+
+Firmware Version Information
+
+"Reference Code - ME","13.0.161.48"
+"ME Firmware Version","18.0.5.2062, Consumer SKU"
+"ISSE Version","03E8.0000.0005.06D0"
+
+Firmware Version Information
+
+"Reference Code - PCH","13.0.161.48"
+"PCH-CRID Status","Disabled"
+"PCH-CRID Original Value","0x20"
+"PCH-CRID New Value","0x20"
+"OPROM - RST - RAID",""
+"PCH Hsio Version","4.0.0.0"
+
+Firmware Version Information
+
+"Reference Code - SA - System Agent","13.0.161.48"
+"Reference Code - MRC","1.3.18.0"
+"SA - PCIe Version","13.0.161.48"
+"SA-CRID Status","Disabled"
+"SA-CRID Original Value","0.0.0.4"
+"SA-CRID New Value","0.0.0.4"
+"OPROM - VBIOS",""
+"IO Manageability Engine FW Version","48.1.10.0"
+"PHY Build Version","0.0.0.7013"
+"Thunderbolt(TM) FW Version","9.1.0.0"
+"System Agent Manageability Engine FW Version",""
+
+Firmware Version Information
+
+"Lan Phy Version",""
+"Sensor Firmware Version",""
+"Debug Mode Status","Disabled"
+"Performance Mode Status","Disabled"
+"Debug Use USB(Disabled:Serial)","Disabled"
+"ICC Overclocking Version",""
+"UNDI Version",""
+"EC FW Version","1.27.0.0"
+"GOP Version","0.34.0.4161"
+"Royal Park Version",""
+"Platform Version","0.7.0.0"
+"TCSS PD0 Version",""
+"TCSS PD1 Version",""
+"TCSS Retimer0 Version",""
+"TCSS Retimer1 Version",""
+"TCSS Retimer2 Version",""
+
+Memory Devices
+
+
+Physical Memory Array
+
+"Array Location:","System board"
+"Array Use:","System memory"
+"Error Detecting Method:","None"
+"Memory Capacity:","16 GBytes"
+"Memory Devices:","8"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller0-ChannelA"
+"Bank Locator:","BANK 0"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller0-ChannelB"
+"Bank Locator:","BANK 1"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller0-ChannelC"
+"Bank Locator:","BANK 2"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller0-ChannelD"
+"Bank Locator:","BANK 3"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller1-ChannelA"
+"Bank Locator:","BANK 0"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller1-ChannelB"
+"Bank Locator:","BANK 1"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller1-ChannelC"
+"Bank Locator:","BANK 2"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Device
+
+"Total Width:","16 bits"
+"Data Width:","16 bits"
+"Device Size:","2048 MBytes"
+"Device Form Factor:","Row of chips"
+"Device Locator:","Controller1-ChannelD"
+"Bank Locator:","BANK 3"
+"Device Type:","LPDDR5"
+"Device Type Detail:","Synchronous"
+"Memory Speed:","7467 MT/s"
+"Configured Memory Speed:","7467 MT/s"
+"Manufacturer:","Samsung"
+"Serial Number:","00000000"
+"Part Number:","K3KL8L80CM-MGCT     "
+"Asset Tag:","9876543210"
+"Volatile Size:","2 GBytes"
+
+Memory Array Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","00FFFFFF"
+"Partition Width:","8"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","1"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","2"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","3"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","4"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","1"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","2"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","3"
+"Interleave Data Depth:","1"
+
+Memory Device Mapped Address
+
+"Starting Address:","00000000"
+"Ending Address:","001FFFFF"
+"Partition Row Position:","Unknown"
+"Interleave Position:","4"
+"Interleave Data Depth:","1"
+
+Port Connectors
+
+
+Keyboard Port
+
+"Port Type:","Keyboard Port"
+"Internal Reference:","J1A1"
+"Internal Connector Type:","None"
+"External Reference:","Keyboard"
+"External Connector Type:","PS/2"
+
+Mouse Port
+
+"Port Type:","Mouse Port"
+"Internal Reference:","J1A1"
+"Internal Connector Type:","None"
+"External Reference:","Mouse"
+"External Connector Type:","PS/2"
+
+Video Port
+
+"Port Type:","Video Port"
+"Internal Reference:","J2A1"
+"Internal Connector Type:","None"
+"External Reference:","TV OUT"
+"External Connector Type:","Mini-DIN"
+
+Video Port
+
+"Port Type:","Video Port"
+"Internal Reference:","J2A2"
+"Internal Connector Type:","None"
+"External Reference:","CRT"
+"External Connector Type:","DB-15 pin female"
+
+Serial Port 16550A Compatible
+
+"Port Type:","Serial Port 16550A Compatible"
+"Internal Reference:","J2A2"
+"Internal Connector Type:","None"
+"External Reference:","COM 1"
+"External Connector Type:","DB-9 pin male"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J3A1"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J3A1"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J3A1"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J5A1"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J5A1"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+USB
+
+"Port Type:","USB"
+"Internal Reference:","J5A2"
+"Internal Connector Type:","None"
+"External Reference:","USB"
+"External Connector Type:","Access Bus (USB)"
+
+Network Port
+
+"Port Type:","Network Port"
+"Internal Reference:","J5A1"
+"Internal Connector Type:","None"
+"External Reference:","Network"
+"External Connector Type:","RJ-45"
+
+Port Connector
+
+"Port Type:","Unknown"
+"Internal Reference:","J9G2"
+"Internal Connector Type:","On Board Floppy"
+"External Reference:","OnBoard Floppy Type"
+"External Connector Type:","None"
+
+Port Connector
+
+"Port Type:","Unknown"
+"Internal Reference:","J7J1"
+"Internal Connector Type:","On Board IDE"
+"External Reference:","OnBoard Primary IDE"
+"External Connector Type:","None"
+
+Audio Port
+
+"Port Type:","Audio Port"
+"Internal Reference:","J30"
+"Internal Connector Type:","None"
+"External Reference:","Microphone In"
+"External Connector Type:","Mini-jack (headphones)"
+
+Audio Port
+
+"Port Type:","Audio Port"
+"Internal Reference:","J30"
+"Internal Connector Type:","None"
+"External Reference:","Line In"
+"External Connector Type:","Mini-jack (headphones)"
+
+Audio Port
+
+"Port Type:","Audio Port"
+"Internal Reference:","J30"
+"Internal Connector Type:","None"
+"External Reference:","Speaker Out"
+"External Connector Type:","Mini-jack (headphones)"
+
+System Slots
+
+
+J6C1
+
+"Slot Designation:","J6C1"
+"Slot Type:","PCI Express x1"
+"Slot Usage:","In use"
+"Slot Data Bus Width:","1x / x1"
+"Slot Length:","Unknown"
+"Base Segment:Bus:Device:Function Number:","0:0:28:0"
+
+J6D2
+
+"Slot Designation:","J6D2"
+"Slot Type:","PCI Express x1"
+"Slot Usage:","Empty"
+"Slot Data Bus Width:","1x / x1"
+"Slot Length:","Unknown"
+"Base Segment:Bus:Device:Function Number:","0:0:28:1"
+
+J7C1
+
+"Slot Designation:","J7C1"
+"Slot Type:","PCI Express x1"
+"Slot Usage:","Empty"
+"Slot Data Bus Width:","1x / x1"
+"Slot Length:","Unknown"
+"Base Segment:Bus:Device:Function Number:","0:0:28:2"
+
+J7D1
+
+"Slot Designation:","J7D1"
+"Slot Type:","PCI Express x1"
+"Slot Usage:","Empty"
+"Slot Data Bus Width:","1x / x1"
+"Slot Length:","Unknown"
+"Base Segment:Bus:Device:Function Number:","0:0:28:3"
+
+J8C1
+
+"Slot Designation:","J8C1"
+"Slot Type:","PCI Express x4"
+"Slot Usage:","Empty"
+"Slot Data Bus Width:","4x / x4"
+"Slot Length:","Unknown"
+"Base Segment:Bus:Device:Function Number:","0:0:28:4"
+
+Intel ME
+
+"ME Current Working State:","Normal"
+"Manufacturing Mode:","Not Active"
+"ME Current Operation Mode:","Normal"
+"Intel ME Version:","18.0, Build 2062, Hot Fix 5"
+"Intel ME Recovery Image Version:","18.0, Build 2062, Hot Fix 5"
+"Intel ME FITC Version:","18.0, Build 2062, Hot Fix 5"
+"Full Network Manageability:","Not Capable"
+"Standard Network Manageability:","Not Capable"
+"Manageability (AMT):","Not Capable"
+"One Click Recovery (OCR):","Not Capable"
+"Remote Platform Erase (RPE):","Not Capable"
+"Platform Service Record (PSR):","Not Capable"
+"Intel Sensor Hub (ISH):","Capable"
+"Wireless LAN (WLAN):","Not Capable"
+"TBT Docking:","Not Capable"
+"Platform Trust Technology (PTT):","Capable"
+"Secure/FIDO device Onboard support:","Capable"
+"Full Network Manageability:","Disabled"
+"Standard Network Manageability:","Disabled"
+"Manageability (AMT):","Disabled"
+"One Click Recovery (OCR):","Disabled"
+"Remote Platform Erase (RPE):","Disabled"
+"Platform Service Record (PSR):","Disabled"
+"Intel Sensor Hub (ISH):","Enabled"
+"Wireless LAN (WLAN):","Disabled"
+"TBT Docking:","Disabled"
+"Platform Trust Technology (PTT):","Enabled"
+"Secure/FIDO device Onboard support:","Disabled"
+"Platform Target Usage Type:","Mobile"
+"SKU:","Regular SKU"
+"ME Firmware Image Type:","Consumer SKU Firmware"
+"Platform Manageability Application:","None"
+"Host ME Region Flash Protection Override (HMRFPO) Status:","Locked"
+
+Memory
+
+"Total Memory Size:","16 GBytes"
+"Total Memory Size [MB]:","16384"
+"Maximum Supported Memory Clock:","4200.0 MHz"
+"Current Timing (tCAS-tRCD-tRP-tRAS):","64-52-52-120"
+"Memory Channels Supported:","4"
+"Memory Channels Active:","4"
+"Command Rate (CR):","1T"
+"Read to Read Delay (tRDRD_SG/TrdrdScL) Same Bank Group:","32T"
+"Read to Read Delay (tRDRD_DG/TrdrdScDlr) Different Bank Group:","24T"
+"Read to Read Delay (tRDRD_SD) Same DIMM:","32T"
+"Read to Read Delay (tRDRD_DD) Different DIMM:","32T"
+"Write to Write Delay (tWRWR_SG/TwrwrScL) Same Bank Group:","32T"
+"Write to Write Delay (tWRWR_DG/TwrwrScDlr) Different Bank Group:","24T"
+"Write to Write Delay (tWRWR_SD) Same DIMM:","40T"
+"Write to Write Delay (tWRWR_DD) Different DIMM:","40T"
+"Read to Write Delay (tRDWR_SG/TrdwrScL) Same Bank Group:","52T"
+"Read to Write Delay (tRDWR_DG/TrdwrScDlr) Different Bank Group:","44T"
+"Read to Write Delay (tRDWR_SD) Same DIMM:","44T"
+"Read to Write Delay (tRDWR_DD) Different DIMM:","44T"
+"Write to Read Delay (tWRRD_SG/TwrrdScL) Same Bank Group:","128T"
+"Write to Read Delay (tWRRD_DG/TwrrdScDlr) Different Bank Group:","104T"
+"Write to Read Delay (tWRRD_SD) Same DIMM:","36T"
+"Write to Read Delay (tWRRD_DD) Different DIMM:","36T"
+"Read to Precharge Delay (tRTP):","40T"
+"Write to Precharge Delay (tWTP):","131T"
+"Write Recovery Time (tWR):","120T"
+"RAS# to RAS# Delay (tRRD_L):","12T"
+"RAS# to RAS# Delay (tRRD_S):","12T"
+"Row Cycle Time (tRC):","172T"
+"Refresh Cycle Time (tRFC):","784T"
+"Four Activate Window (tFAW):","44T"
+
+Row: 0 [BANK 0/Controller0-ChannelA] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","0"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 1 [BANK 1/Controller0-ChannelB] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","1"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 2 [BANK 2/Controller0-ChannelC] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","2"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 3 [BANK 3/Controller0-ChannelD] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","3"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 4 [BANK 0/Controller1-ChannelA] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","4"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 5 [BANK 1/Controller1-ChannelB] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","5"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 6 [BANK 2/Controller1-ChannelC] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","6"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Row: 7 [BANK 3/Controller1-ChannelD] - 2 GB LPDDR5 SDRAM Samsung K3KL8L80CM-MGCT
+
+"Row Number:","7"
+"Row Size:","2 GBytes"
+"Memory Type:","LPDDR5 SDRAM"
+"Module Manufacturer:","Samsung"
+"Module Model:","K3KL8L80CM-MGCT"
+"Module Type:","LPDDR5 SDRAM"
+"Module Serial Number:","00000000"
+
+Bus
+
+
+PCI Bus #0
+
+
+Intel Meteor Lake-H 4P+8E - Host Bridge/DRAM Controller
+
+"Device Name:","Intel Meteor Lake-H 4P+8E - Host Bridge/DRAM Controller"
+"Original Device Name:","Intel Meteor Lake-H 4P+8E - Host Bridge/DRAM Controller"
+"Device Class:","Host-to-PCI Bridge"
+"Revision ID:","4"
+"PCI Address (Bus:Device:Function) Number:","0:0:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7D14&SUBSYS_380317AA&REV_04"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI standard host CPU bridge"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.1150"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D14&SUBSYS_380317AA&REV_04\3&11583659&1&00"
+"Location Paths","PCIROOT(0)#PCI(0000)"
+
+Intel Meteor Lake-P - Integrated Graphics
+
+"Device Name:","Intel Meteor Lake-P - Integrated Graphics"
+"Original Device Name:","Intel Meteor Lake-P - Integrated Graphics"
+"Device Class:","VGA Compatible Adapter"
+"Revision ID:","8"
+"PCI Address (Bus:Device:Function) Number:","0:2:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7D55&SUBSYS_381317AA&REV_08"
+"Version:","1.1"
+"Maximum Link Width:","x1"
+"Current Link Width:","x1"
+"Maximum Link Speed:","2.5 GT/s"
+"Current Link Speed:","2.5 GT/s"
+"Device/Port Type:","Root Complex Integrated Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L0s and L1"
+"Active State Power Management (ASPM) Status:","Disabled"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Supported"
+"Resizable BAR0 Supported Size:","256 MB"
+"Resizable BAR0 Current Size:","256 MB"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","5018000000"
+"Memory Base Address 2","4000000000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Arc(TM) Graphics"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","32.0.101.8626"
+"Driver Date:","11-Mar-2026"
+"DCH/UWD Driver:","Capable"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D55&SUBSYS_381317AA&REV_08\3&11583659&1&10"
+"Location Paths","PCIROOT(0)#PCI(0200)"
+
+Intel Meteor Lake/Arrow Lake-U/H - Dynamic Platform & Thermal Framework Processor Participant
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Dynamic Platform & Thermal Framework Processor Participant"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Dynamic Platform & Thermal Framework Processor Participant"
+"Device Class:","Other Data Acquisition/Signal Processing Controller"
+"Revision ID:","4"
+"PCI Address (Bus:Device:Function) Number:","0:4:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7D03&SUBSYS_380817AA&REV_04"
+"Interrupt Line:","IRQ16"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","50192C0000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Capable"
+"Driver Manufacturer:","Intel"
+"Driver Description:","Intel(R) Innovation Platform Framework Processor Participant"
+"Driver Provider:","Intel"
+"Driver Version:","2.2.10204.8"
+"Driver Date:","16-Dec-2024"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D03&SUBSYS_380817AA&REV_04\3&11583659&1&20"
+"Location Paths","PCIROOT(0)#PCI(0400)"
+
+Intel Meteor Lake/Arrow Lake-U/H IOE - PCI Express Root Port #10 (PCIe61)
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H IOE - PCI Express Root Port #10 (PCIe61)"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H IOE - PCI Express Root Port #10 (PCIe61)"
+"Device Class:","PCI-to-PCI Bridge"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:6:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7ECA&SUBSYS_00000000&REV_10"
+"Version:","4.0"
+"Maximum Link Width:","x4"
+"Current Link Width:","x4"
+"Maximum Link Speed:","16.0 GT/s"
+"Current Link Speed:","16.0 GT/s"
+"Device/Port Type:","Root Port of PCI Express Root Complex"
+"Slot Implemented:","Yes"
+"Hot-Plug:","Not Capable"
+"Hot-Plug Surprise:","Not Capable"
+"Slot Power Limit:","25.000 W"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L0s and L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:","2 - 4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","256 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTB#"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI Express Root Port"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7ECA&SUBSYS_72708086&REV_10\3&11583659&1&30"
+"Location Paths","PCIROOT(0)#PCI(0600)"
+
+PCI Express x4 Bus #1
+
+
+Samsung Electronics Piccolo S4LY022 PCIe 4.0 x4 NVMe 2.0 DRAM-less SSD Controller
+
+"Device Name:","Samsung Electronics Piccolo S4LY022 PCIe 4.0 x4 NVMe 2.0 DRAM-less SSD Controller"
+"Original Device Name:","Samsung Electronics Piccolo S4LY022 PCIe 4.0 x4 NVMe 2.0 DRAM-less SSD Controller"
+"Device Class:","NVMe Controller"
+"Revision ID:","0"
+"PCI Address (Bus:Device:Function) Number:","1:0:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_144D&DEV_A80D&SUBSYS_A801144D&REV_00"
+"Version:","4.0"
+"Maximum Link Width:","x4"
+"Current Link Width:","x4"
+"Maximum Link Speed:","16.0 GT/s"
+"Current Link Speed:","16.0 GT/s"
+"Device/Port Type:","PCI Express Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","512 bytes"
+"Maximum Payload Size:","256 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","8C100000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","Standard NVM Express Controller"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_144D&DEV_A80D&SUBSYS_A801144D&REV_00\4&3396E079&0&0030"
+"Location Paths","PCIROOT(0)#PCI(0600)#PCI(0000)"
+
+Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #16
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #16"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #16"
+"Device Class:","PCI-to-PCI Bridge"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:7:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7EC4&SUBSYS_00000048&REV_10"
+"Version:","1.1"
+"Maximum Link Width:","x4"
+"Current Link Width:","Not negotiated"
+"Maximum Link Speed:","2.5 GT/s"
+"Current Link Speed:","2.5 GT/s"
+"Device/Port Type:","Root Port of PCI Express Root Complex"
+"Slot Implemented:","Yes"
+"Hot-Plug:","Capable"
+"Hot-Plug Surprise:","Capable"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:","512 ns - 1 us"
+"L1 Exit Latency:","8 - 16 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI Express Root Port"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7EC4&SUBSYS_383417AA&REV_10\3&11583659&1&38"
+"Location Paths","PCIROOT(0)#PCI(0700)"
+
+PCI Express x4 Bus #2
+
+
+Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #18
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #18"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H - USB Type-C Subsystem PCIe Root Port #18"
+"Device Class:","PCI-to-PCI Bridge"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:7:2"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7EC6&SUBSYS_00000050&REV_10"
+"Version:","1.1"
+"Maximum Link Width:","x4"
+"Current Link Width:","Not negotiated"
+"Maximum Link Speed:","2.5 GT/s"
+"Current Link Speed:","2.5 GT/s"
+"Device/Port Type:","Root Port of PCI Express Root Complex"
+"Slot Implemented:","Yes"
+"Hot-Plug:","Capable"
+"Hot-Plug Surprise:","Capable"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:","512 ns - 1 us"
+"L1 Exit Latency:","8 - 16 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTC#"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI Express Root Port"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7EC6&SUBSYS_380217AA&REV_10\3&11583659&1&3A"
+"Location Paths","PCIROOT(0)#PCI(0702)"
+
+PCI Express x4 Bus #44
+
+
+Intel Meteor Lake-U/H - Gaussian & Neural-Network Accelerator (GNA) 3.5
+
+"Device Name:","Intel Meteor Lake-U/H - Gaussian & Neural-Network Accelerator (GNA) 3.5"
+"Original Device Name:","Intel Meteor Lake-U/H - Gaussian & Neural-Network Accelerator (GNA) 3.5"
+"Device Class:","Unknown Peripheral Device"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:8:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E4C&SUBSYS_380D17AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","5019314000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) GNA Scoring Accelerator module"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","3.5.0.1578"
+"Driver Date:","14-Nov-2023"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E4C&SUBSYS_380D17AA&REV_20\3&11583659&1&40"
+"Location Paths","PCIROOT(0)#PCI(0800)"
+
+Intel Meteor Lake/Arrow Lake-U/H - Platform Monitoring Technology (PMT)
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Platform Monitoring Technology (PMT)"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Platform Monitoring Technology (PMT)"
+"Device Class:","Other Data Acquisition/Signal Processing Controller"
+"Revision ID:","1"
+"PCI Address (Bus:Device:Function) Number:","0:10:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7D0D&SUBSYS_381217AA&REV_01"
+"Version:","2.0"
+"Current Link Width:","Not negotiated"
+"Maximum Link Speed:","5.0 GT/s"
+"Device/Port Type:","Root Complex Integrated Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","None"
+"Active State Power Management (ASPM) Status:","Disabled"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","5019280000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel(R) Platform Monitoring Technology (PMT) Device"
+"Driver Description:","Intel(R) Platform Monitoring Technology (PMT) Driver"
+"Driver Provider:","Intel(R) Platform Monitoring Technology (PMT) Device"
+"Driver Version:","3.1.2.6"
+"Driver Date:","24-May-2024"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D0D&SUBSYS_381217AA&REV_01\3&11583659&1&50"
+"Location Paths","PCIROOT(0)#PCI(0A00)"
+
+Intel Meteor Lake/Arrow Lake-U/H Neural Processing Unit (NPU2.7)
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H Neural Processing Unit (NPU2.7)"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H Neural Processing Unit (NPU2.7)"
+"Device Class:","Processing Accelerator"
+"Revision ID:","4"
+"PCI Address (Bus:Device:Function) Number:","0:11:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7D1D&SUBSYS_380F17AA&REV_04"
+"Version:","2.0"
+"Current Link Width:","Not negotiated"
+"Maximum Link Speed:","5.0 GT/s"
+"Device/Port Type:","Root Complex Integrated Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","None"
+"Active State Power Management (ASPM) Status:","Disabled"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","5010000000"
+"Memory Base Address 4","5019313000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) AI Boost"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","32.0.100.4240"
+"Driver Date:","29-Aug-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D1D&SUBSYS_380F17AA&REV_04\3&11583659&1&58"
+"Location Paths","PCIROOT(0)#PCI(0B00)"
+
+Intel Meteor Lake-U/H - USB xHCI Host Controller
+
+"Device Name:","Intel Meteor Lake-U/H - USB xHCI Host Controller"
+"Original Device Name:","Intel Meteor Lake-U/H - USB xHCI Host Controller"
+"Device Class:","USB xHCI Controller"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:13:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7EC0&SUBSYS_380517AA&REV_10"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","50192F0000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Capable"
+"USB Version Supported:","3.2"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB xHCI Compliant Host Controller"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","22-Jul-2026"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7EC0&SUBSYS_380517AA&REV_10\3&11583659&1&68"
+"Location Paths","PCIROOT(0)#PCI(0D00)"
+
+USB Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+Intel Meteor Lake/Arrow Lake - Thunderbolt DMA0 Controller
+
+"Device Name:","Intel Meteor Lake/Arrow Lake - Thunderbolt DMA0 Controller"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake - Thunderbolt DMA0 Controller"
+"Device Class:","USB4 Host Controller"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:13:2"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7EC2&SUBSYS_381F17AA&REV_10"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","5019240000"
+"Memory Base Address 2","5019312000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"USB Version Supported:","4.0"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB4(TM) Host Router (Microsoft)"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","22-Jul-2026"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7EC2&SUBSYS_381F17AA&REV_10&USB4_MS_CM\3&11583659&1&6A"
+"Location Paths","PCIROOT(0)#PCI(0D02)"
+
+Intel Meteor Lake/Arrow Lake-U/H - Thunderbolt DMA1 Controller
+
+"Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Thunderbolt DMA1 Controller"
+"Original Device Name:","Intel Meteor Lake/Arrow Lake-U/H - Thunderbolt DMA1 Controller"
+"Device Class:","USB4 Host Controller"
+"Revision ID:","10"
+"PCI Address (Bus:Device:Function) Number:","0:13:3"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7EC3&SUBSYS_380B17AA&REV_10"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","5019200000"
+"Memory Base Address 2","5019311000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"USB Version Supported:","4.0"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB4(TM) Host Router (Microsoft)"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","22-Jul-2026"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7EC3&SUBSYS_380B17AA&REV_10&USB4_MS_CM\3&11583659&1&6B"
+"Location Paths","PCIROOT(0)#PCI(0D03)"
+
+Intel Meteor Lake-U/H PCH - Integrated Sensor Hub (ISH)
+
+"Device Name:","Intel Meteor Lake-U/H PCH - Integrated Sensor Hub (ISH)"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - Integrated Sensor Hub (ISH)"
+"Device Class:","RS-232 Serial Port"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:18:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E45&SUBSYS_383817AA&REV_20"
+"Interrupt Line:","IRQ26"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","50192E0000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel"
+"Driver Description:","Intel(R) Integrated Sensor Solution"
+"Driver Provider:","Intel"
+"Driver Version:","5.8.36.0"
+"Driver Date:","18-Oct-2024"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E45&SUBSYS_383817AA&REV_20\3&11583659&1&90"
+"Location Paths","PCIROOT(0)#PCI(1200)"
+
+Intel Meteor Lake-U/H PCH - Standalone USB xHCI Controller
+
+"Device Name:","Intel Meteor Lake-U/H PCH - Standalone USB xHCI Controller"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - Standalone USB xHCI Controller"
+"Device Class:","USB xHCI Controller"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:20:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E7D&SUBSYS_381B17AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","3FFBFDE0000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Capable"
+"USB Version Supported:","3.2"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB xHCI Compliant Host Controller"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","22-Jul-2026"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E7D&SUBSYS_381B17AA&REV_20\3&11583659&1&A0"
+"Location Paths","PCIROOT(0)#PCI(1400)"
+
+USB Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+[Port6] : No Device Connected
+
+
+[Port7] : No Device Connected
+
+
+[Port8] : No Device Connected
+
+
+[Port9] : Luxvisions Innovation, PID=00C2
+
+"Device Manufacturer:","Luxvisions Innovation"
+"Product Name:","Luxvisions Innovation, PID=00C2"
+"Serial Number:","-"
+"USB Version Supported:","2.01"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 2.0 High-speed"
+"Maximum Current:","500 mA"
+"Driver Description:","USB Composite Device"
+"Hardware ID:","USB\VID_30C9&PID_00C2"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB Composite Device"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_30C9&PID_00C2\01.00.00"
+"Location Paths","PCIROOT(0)#PCI(1400)#USBROOT(0)#USB(9)"
+
+[Port10] : Intel(R) Wireless Bluetooth(R)
+
+"Device Manufacturer:","Intel"
+"Product Name:","Intel(R) Wireless Bluetooth(R)"
+"Serial Number:","-"
+"USB Version Supported:","2.01"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","100 mA"
+"Driver Description:","Intel(R) Wireless Bluetooth(R)"
+"Hardware ID:","USB\VID_8087&PID_0033"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Wireless Bluetooth(R)"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","23.160.0.9"
+"Driver Date:","20-Jul-2025"
+"DeviceInstanceId","USB\VID_8087&PID_0033\5&26F9EC6&0&10"
+"Location Paths","PCIROOT(0)#PCI(1400)#USBROOT(0)#USB(10)"
+
+[Port11] : No Device Connected
+
+
+[Port12] : No Device Connected
+
+
+[Port13] : No Device Connected
+
+
+[Port14] : No Device Connected
+
+
+Intel Meteor Lake-U/H PCH - Shared SRAM
+
+"Device Name:","Intel Meteor Lake-U/H PCH - Shared SRAM"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - Shared SRAM"
+"Device Class:","RAM/Memory Controller"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:20:2"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E7F&SUBSYS_382717AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","5019308000"
+"Memory Base Address 2","5019310000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","INTEL"
+"Driver Description:","Intel(R) Shared SRAM - 7E7F"
+"Driver Provider:","INTEL"
+"Driver Version:","10.1.47.12"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E7F&SUBSYS_382717AA&REV_20\3&11583659&1&A2"
+"Location Paths","PCIROOT(0)#PCI(1402)"
+
+Intel Wi-Fi 6E AX211 160MHz
+
+"Device Name:","Intel Wi-Fi 6E AX211 160MHz"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - CNVi: Wi-Fi"
+"Device Class:","Other Network Adapter"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:20:3"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E40&SUBSYS_00948086&REV_20"
+"Version:","2.0"
+"Current Link Width:","Not negotiated"
+"Maximum Link Speed:","5.0 GT/s"
+"Device/Port Type:","Root Complex Integrated Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","None"
+"Active State Power Management (ASPM) Status:","Disabled"
+"L0s Exit Latency:","< 64 ns"
+"L1 Exit Latency:","< 1 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTC#"
+"Memory Base Address 0","5019304000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel"
+"Driver Description:","Intel(R) Wi-Fi 6E AX211 160MHz"
+"Driver Provider:","Intel"
+"Driver Version:","23.160.0.4"
+"Driver Date:","21-Jul-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E40&SUBSYS_00948086&REV_20\3&11583659&1&A3"
+"Location Paths","PCIROOT(0)#PCI(1403)"
+
+Intel Meteor Lake-U/H PCH - I2C Controller #0
+
+"Device Name:","Intel Meteor Lake-U/H PCH - I2C Controller #0"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - I2C Controller #0"
+"Device Class:","Other Serial Bus Controller"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:21:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E78&SUBSYS_383517AA&REV_20"
+"Interrupt Line:","IRQ32"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","3FFBFDFA000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Serial IO I2C Host Controller - 7E78"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","30.100.2418.12"
+"Driver Date:","29-Apr-2024"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E78&SUBSYS_383517AA&REV_20\3&11583659&1&A8"
+"Location Paths","PCIROOT(0)#PCI(1500)"
+
+Intel Meteor Lake-U/H PCH - I2C Controller #1
+
+"Device Name:","Intel Meteor Lake-U/H PCH - I2C Controller #1"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - I2C Controller #1"
+"Device Class:","Other Serial Bus Controller"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:21:1"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E79&SUBSYS_381E17AA&REV_20"
+"Interrupt Line:","IRQ33"
+"Interrupt Pin:","INTB#"
+"Memory Base Address 0","0"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Serial IO I2C Host Controller - 7E79"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","30.100.2418.12"
+"Driver Date:","29-Apr-2024"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E79&SUBSYS_381E17AA&REV_20\3&11583659&1&A9"
+"Location Paths","PCIROOT(0)#PCI(1501)"
+
+Intel Meteor Lake-U/H PCH - Intel CSME: HECI #1
+
+"Device Name:","Intel Meteor Lake-U/H PCH - Intel CSME: HECI #1"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - Intel CSME: HECI #1"
+"Device Class:","Other Communication Device"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:22:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E70&SUBSYS_383F17AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","501930D000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel"
+"Driver Description:","Intel(R) Management Engine Interface #1"
+"Driver Provider:","Intel"
+"Driver Version:","2512.7.3.0"
+"Driver Date:","20-Mar-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E70&SUBSYS_383F17AA&REV_20\3&11583659&1&B0"
+"Location Paths","PCIROOT(0)#PCI(1600)"
+
+Intel Meteor Lake-U/H PCH - PCI Express Root Port #6
+
+"Device Name:","Intel Meteor Lake-U/H PCH - PCI Express Root Port #6"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - PCI Express Root Port #6"
+"Device Class:","PCI-to-PCI Bridge"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:28:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E3D&SUBSYS_00000000&REV_20"
+"Version:","4.0"
+"Maximum Link Width:","x1"
+"Current Link Width:","x1"
+"Maximum Link Speed:","16.0 GT/s"
+"Current Link Speed:","2.5 GT/s"
+"Device/Port Type:","Root Port of PCI Express Root Complex"
+"Slot Implemented:","Yes"
+"Hot-Plug:","Not Capable"
+"Hot-Plug Surprise:","Not Capable"
+"Slot Power Limit:","10.000 W"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:","2 - 4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","256 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTB#"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI Express Root Port"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E3D&SUBSYS_383D17AA&REV_20\3&11583659&1&E0"
+"Location Paths","PCIROOT(0)#PCI(1C00)"
+
+PCI Express x1 Bus #86 [J6C1]
+
+
+RealTek Semiconductor PCI-E Card Reader
+
+"Device Name:","RealTek Semiconductor PCI-E Card Reader"
+"Original Device Name:","RealTek Semiconductor PCI-E Card Reader"
+"Device Class:","Unknown"
+"Revision ID:","1"
+"PCI Address (Bus:Device:Function) Number:","86:0:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_10EC&DEV_522A&SUBSYS_38D817AA&REV_01"
+"Version:","2.0"
+"Maximum Link Width:","x1"
+"Current Link Width:","x1"
+"Maximum Link Speed:","5.0 GT/s"
+"Current Link Speed:","2.5 GT/s"
+"Device/Port Type:","PCI Express Endpoint"
+"Slot Implemented:","No"
+"Emergency Power Reduction:","Not Supported"
+"Active State Power Management (ASPM) Support:","L0s and L1"
+"Active State Power Management (ASPM) Status:","L1 Entry"
+"L0s Exit Latency:",">4 us"
+"L1 Exit Latency:","32 - 64 us"
+"Maximum Payload Size Supported:","128 bytes"
+"Maximum Payload Size:","128 bytes"
+"Resizable BAR Support:","Not Supported"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","8C0FF000"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Realtek Semiconductor Corp."
+"Driver Description:","Realtek PCIE CardReader"
+"Driver Provider:","Realtek Semiconductor Corp."
+"Driver Version:","10.0.26200.21385"
+"Driver Date:","25-Aug-2025"
+"DeviceInstanceId","PCI\VEN_10EC&DEV_522A&SUBSYS_38D817AA&REV_01\00000001004CE00000"
+"Location Paths","PCIROOT(0)#PCI(1C00)#PCI(0000)"
+
+Intel Meteor Lake-H PCH - eSPI Controller
+
+"Device Name:","Intel Meteor Lake-H PCH - eSPI Controller"
+"Original Device Name:","Intel Meteor Lake-H PCH - eSPI Controller"
+"Device Class:","PCI-to-ISA Bridge"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:31:0"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E02&SUBSYS_384117AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","PCI standard ISA bridge"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.1150"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E02&SUBSYS_384117AA&REV_20\3&11583659&1&F8"
+"Location Paths","PCIROOT(0)#PCI(1F00)"
+
+Intel Meteor Lake-U/H PCH - cAVS (Audio, Voice, Speech)
+
+"Device Name:","Intel Meteor Lake-U/H PCH - cAVS (Audio, Voice, Speech)"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - cAVS (Audio, Voice, Speech)"
+"Device Class:","Multimedia Audio Adapter"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:31:3"
+"PCI Latency Timer:","32"
+"Hardware ID:","PCI\VEN_8086&DEV_7E28&SUBSYS_382F17AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTA#"
+"Memory Base Address 0","3FFBFDFC000"
+"Memory Base Address 4","3FFBFE00000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","Intel(R) Corporation"
+"Driver Description:","Intel® Smart Sound Technology BUS"
+"Driver Provider:","Intel(R) Corporation"
+"Driver Version:","20.40.12446.0"
+"Driver Date:","17-Oct-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E28&SUBSYS_382F17AA&REV_20\3&11583659&1&FB"
+"Location Paths","PCIROOT(0)#PCI(1F03)"
+
+Intel Meteor Lake-U/H PCH - SMBus Controller
+
+"Device Name:","Intel Meteor Lake-U/H PCH - SMBus Controller"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - SMBus Controller"
+"Device Class:","SMBus (System Management Bus)"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:31:4"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E22&SUBSYS_384317AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","INTC#"
+"Memory Base Address 0","501930C000"
+"I/O Base Address 4","EFA0"
+"Bus Mastering:","Disabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Capable"
+"Driver Manufacturer:","INTEL"
+"Driver Description:","Intel(R) SMBus - 7E22"
+"Driver Provider:","INTEL"
+"Driver Version:","10.1.47.12"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E22&SUBSYS_384317AA&REV_20\3&11583659&1&FC"
+"Location Paths","PCIROOT(0)#PCI(1F04)"
+
+Intel Meteor Lake-U/H PCH - SPI (flash) Controller
+
+"Device Name:","Intel Meteor Lake-U/H PCH - SPI (flash) Controller"
+"Original Device Name:","Intel Meteor Lake-U/H PCH - SPI (flash) Controller"
+"Device Class:","Other Serial Bus Controller"
+"Revision ID:","20"
+"PCI Address (Bus:Device:Function) Number:","0:31:5"
+"PCI Latency Timer:","0"
+"Hardware ID:","PCI\VEN_8086&DEV_7E23&SUBSYS_384A17AA&REV_20"
+"Interrupt Line:","N/A"
+"Interrupt Pin:","N/A"
+"Memory Base Address 0","FE010000"
+"Bus Mastering:","Enabled"
+"Running At 66 MHz:","Not Capable"
+"Fast Back-to-Back Transactions:","Not Capable"
+"Driver Manufacturer:","INTEL"
+"Driver Description:","Intel(R) SPI - 7E23"
+"Driver Provider:","INTEL"
+"Driver Version:","10.1.47.12"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E23&SUBSYS_384A17AA&REV_20\3&11583659&1&FD"
+"Location Paths","PCIROOT(0)#PCI(1F05)"
+
+Video Adapter
+
+
+Intel Arc Graphics
+
+"Video Chipset:","Intel Arc Graphics"
+"Video Chipset Codename:","Meteor Lake"
+"Video Memory:","9356348 KBytes of SDRAM"
+"Video Card:","Intel Meteor Lake-P - Integrated Graphics [Lenovo]"
+"Video Bus:","PCIe v1.1 x1 (2.5 GT/s) @ x1 (2.5 GT/s)"
+"GPU Type:","Integrated"
+"Video RAMDAC:","Internal"
+"Graphics Processor Clock:","300.0 MHz"
+"Graphics Processor Clock (Maximum):","2200.0 MHz"
+"Graphics Memory Bus Width:","64-bit"
+"Number Of ALUs (cores):","896"
+"Number Of EUs (Execution Units):","112"
+"Number Of Xe Cores:","7"
+"Firmware Version:","22.0.1041"
+"Resizable BAR (ReBAR) Support:","Supported"
+"Resizable BAR (ReBAR) State:","Disabled (256 MB)"
+"Hardware ID:","PCI\VEN_8086&DEV_7D55&SUBSYS_381317AA&REV_08"
+"PCI Location (Bus:Dev:Fnc):","0:02:0"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Arc(TM) Graphics"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","32.0.101.8626"
+"Driver Date:","11-Mar-2026"
+"DCH/UWD Driver:","Capable"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D55&SUBSYS_381317AA&REV_08\3&11583659&1&10"
+"Location Paths","PCIROOT(0)#PCI(0200)"
+
+Intel NPU
+
+"NPU Name:","Intel NPU"
+"NPU Type:","Integrated"
+"NPU Memory:","9225276 KBytes of SDRAM"
+"Number Of NPU Tiles:","2"
+"NPU Clock:","333.0 MHz"
+"Hardware ID:","PCI\VEN_8086&DEV_7D1D&SUBSYS_380F17AA&REV_04"
+"PCI Location (Bus:Dev:Fnc):","0:11:0"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) AI Boost"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","32.0.100.4240"
+"Driver Date:","29-Aug-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7D1D&SUBSYS_380F17AA&REV_04\3&11583659&1&58"
+"Location Paths","PCIROOT(0)#PCI(0B00)"
+
+Monitor
+
+
+Lenovo [Unknown Model: LEN88AC]
+
+"Monitor Name:","Lenovo [Unknown Model: LEN88AC]"
+"Monitor Name (Manuf):","LENOVO       LEN140WUXGA  "
+"Serial Number:","Unknown"
+"Date Of Manufacture:","Week: 0, Year: 2022"
+"Monitor Hardware ID:","Monitor\LEN88AC"
+"Max. Vertical Size:","19 cm"
+"Max. Horizontal Size:","30 cm"
+"Input Signal:","Digital"
+"Color Bit Depth:","10 Bits per Primary Color"
+"Digital Video Interface Standard Supported:","DisplayPort"
+"Gamma Factor:","2.20"
+"Standby:","Not Supported"
+"Suspend:","Not Supported"
+"Active Off:","Not Supported"
+"Standard Colour Space (sRGB) Default:","Not Supported"
+"Preferred Timing Mode:","Supported"
+"Default GTF (Continuous Frequency):","Not Supported"
+"DFP 1.x Compatible:","Yes"
+"1920 x 1200","302 x 189 mm, Pixel Clock 154.25 MHz"
+"1920 x 1200","302 x 189 mm, Pixel Clock 154.25 MHz"
+"Red [x,y]:"," 0.6797, 0.3203"
+"Green [x,y]:"," 0.2373, 0.7227"
+"Blue [x,y]:"," 0.1396, 0.0498"
+"White [x,y]:"," 0.3125, 0.3291"
+"sRGB Coverage:","150.357 %"
+"AdobeRGB Coverage:","111.462 %"
+"DCI-P3 Coverage:","110.839 %"
+"NTSC Coverage:","106.495 %"
+"BT.2020 Coverage:","79.519 %"
+"HDR Support:","Supported"
+"HDR10+ Support:","Not Supported"
+"AMD FreeSync Support:","Not Supported"
+"NVIDIA G-Sync Support:","Not Supported"
+"HDMI AdaptiveSync Support:","Not Supported"
+"VESA AdaptiveSync Support:","Not Supported"
+"Display Audio Support:","Not Supported"
+"Driver Manufacturer:","Lenovo"
+"Driver Description:","Lenovo HDR Monitor"
+"Driver Provider:","Lenovo"
+"Driver Version:","3.0.0.3"
+"Driver Date:","28-Oct-2025"
+"DeviceInstanceId","DISPLAY\LEN88AC\4&587F83B&0&UID8388688"
+"Location Paths","ACPI(_SB_)#ACPI(PC00)#ACPI(GFX0)#ACPI(DD1F)"
+
+Drives
+
+
+(S)ATA/ATAPI Drives
+
+
+NVMe Drives
+
+
+SAMSUNG MZAL81T0HDLB-00BL2
+
+"Drive Controller:","NVMe (PCIe x4 16.0 GT/s @ x4 16.0 GT/s)"
+"Host Controller:","Samsung Electronics Piccolo S4LY022 PCIe 4.0 x4 NVMe 2.0 DRAM-less SSD Controller"
+"Drive Model:","SAMSUNG MZAL81T0HDLB-00BL2"
+"Drive Serial Number:","S77LNF0WC33047"
+"Drive Firmware Revision:","5L1QKXD7"
+"NVMe Version Supported:","v2.0"
+"Drive Capacity:","976,762 MBytes (1024 GB)"
+"Drive Capacity [MB]:","976762"
+"SCSI Address:","0:0:0:0"
+"Drive Letter(s):","C:"
+"Maximum Power Consumption:","6.28 W"
+"Volatile Write Cache:","Present"
+"Compare Command:","Supported"
+"Write Uncorrectable Command:","Supported"
+"Dataset Management:","Supported"
+"Write Zeroes:","Supported"
+"Save field set to a non-zero value:","Supported"
+"Reservations:","Not Supported"
+"Timestamp:","Supported"
+"Autonomous Power State Transitions:","Supported"
+"Host Memory Buffer (HMB) Capability:","Supported"
+"Host Memory Buffer (HMB) Minimum Size:","16 MBytes"
+"Host Memory Buffer (HMB) Preferred Size:","64 MBytes"
+"Host Memory Buffer (HMB) Status:","Enabled"
+"Host Memory Buffer (HMB) Enabled Size:","64 MBytes"
+"NVM Command Set:","Not Supported"
+"Key Value (KV) Command Set:","Not Supported"
+"Zoned Namespace (ZNS) Command Set:","Not Supported"
+"Subsystem Local Memory Command Set:","Not Supported"
+"Computational Programs Namespace Command Set:","Not Supported"
+"Available Space Below Threshold:","OK"
+"Temperature Exceeded Critical Threshold:","OK"
+"Device Reliablity Degraded:","OK"
+"Media In Read Only Mode:","OK"
+"Volatile Memory Backup Device Failed:","OK"
+"Drive Temperature:","67 °C"
+"Warning Temperature Threshold:","83 °C"
+"Critical Temperature Threshold:","85 °C"
+"Time Above Warning Temperature Threshold:","0 minutes"
+"Time Above Critical Temperature Threshold:","0 minutes"
+"Spare Capacity Available:","100%"
+"Device Health:","95%"
+"Power Cycles:","969"
+"Power On Hours:","4161 hours"
+"Unsafe Shutdowns:","117"
+"Media Errors:","0"
+"Total Host Reads:","47.64 TBytes"
+"Total Host Writes:","32.57 TBytes"
+
+Audio
+
+
+Intel Meteor Lake-U/H PCH - cAVS (Audio, Voice, Speech)
+
+"Audio Adapter:","Intel Meteor Lake-U/H PCH - cAVS (Audio, Voice, Speech)"
+"Audio Controller Hardware ID:","PCI\VEN_8086&DEV_7E28&SUBSYS_382F17AA&REV_20"
+"High Definition Audio Codec:","RealTek"
+"Audio Codec Hardware ID:","INTELAUDIO\FUNC_01&VEN_10EC&DEV_0287&SUBSYS_17AA38DB&REV_1000"
+"Driver Manufacturer:","Realtek Semiconductor Corp."
+"Driver Description:","Realtek High Definition Audio(SST)"
+"Driver Provider:","Realtek Semiconductor Corp."
+"Driver Version:","6.0.9879.1"
+"Driver Date:","26-Aug-2025"
+"DeviceInstanceId","INTELAUDIO\FUNC_01&VEN_10EC&DEV_0287&SUBSYS_17AA38DB&REV_1000\5&1060527E&0&0001DIF_000B&UIF_0000"
+
+Network
+
+
+Intel Wi-Fi 6E AX211 160MHz
+
+"Network Card:","Intel Wi-Fi 6E AX211 160MHz"
+"Vendor Description:","Microsoft"
+"MAC Address:","18-93-41-D6-4D-2C"
+"Maximum Link Speed:","19 Mbps"
+"Current Link Speed:","19 Mbps"
+"Transmit Buffer Size:","Unknown"
+"Receive Buffer Size:","Unknown"
+"Hardware ID:","PCI\VEN_8086&DEV_7E40&SUBSYS_00948086&REV_20"
+"Driver Manufacturer:","Intel"
+"Driver Description:","Intel(R) Wi-Fi 6E AX211 160MHz"
+"Driver Provider:","Intel"
+"Driver Version:","23.160.0.4"
+"Driver Date:","21-Jul-2025"
+"DeviceInstanceId","PCI\VEN_8086&DEV_7E40&SUBSYS_00948086&REV_20\3&11583659&1&A3"
+"Location Paths","PCIROOT(0)#PCI(1403)"
+
+Ports
+
+
+Serial Ports
+
+
+USB
+
+
+Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+
+
+Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+
+
+Root Hub
+
+
+[Port1] : No Device Connected
+
+
+[Port2] : No Device Connected
+
+
+[Port3] : No Device Connected
+
+
+[Port4] : No Device Connected
+
+
+[Port5] : No Device Connected
+
+
+[Port6] : No Device Connected
+
+
+[Port7] : No Device Connected
+
+
+[Port8] : No Device Connected
+
+
+[Port9] : Luxvisions Innovation, PID=00C2
+
+"Device Manufacturer:","Luxvisions Innovation"
+"Product Name:","Luxvisions Innovation, PID=00C2"
+"Serial Number:","-"
+"USB Version Supported:","2.01"
+"USB Speed Capable:","USB 2.0 High-speed"
+"USB Speed Connected:","USB 2.0 High-speed"
+"Maximum Current:","500 mA"
+"Driver Description:","USB Composite Device"
+"Hardware ID:","USB\VID_30C9&PID_00C2"
+"Driver Manufacturer:","Microsoft"
+"Driver Description:","USB Composite Device"
+"Driver Provider:","Microsoft"
+"Driver Version:","10.0.26100.8972"
+"Driver Date:","21-Jun-2006"
+"DeviceInstanceId","USB\VID_30C9&PID_00C2\01.00.00"
+"Location Paths","PCIROOT(0)#PCI(1400)#USBROOT(0)#USB(9)"
+
+[Port10] : Intel(R) Wireless Bluetooth(R)
+
+"Device Manufacturer:","Intel"
+"Product Name:","Intel(R) Wireless Bluetooth(R)"
+"Serial Number:","-"
+"USB Version Supported:","2.01"
+"USB Speed Capable:","USB 1.1 Full-speed"
+"USB Speed Connected:","USB 1.1 Full-speed"
+"Maximum Current:","100 mA"
+"Driver Description:","Intel(R) Wireless Bluetooth(R)"
+"Hardware ID:","USB\VID_8087&PID_0033"
+"Driver Manufacturer:","Intel Corporation"
+"Driver Description:","Intel(R) Wireless Bluetooth(R)"
+"Driver Provider:","Intel Corporation"
+"Driver Version:","23.160.0.9"
+"Driver Date:","20-Jul-2025"
+"DeviceInstanceId","USB\VID_8087&PID_0033\5&26F9EC6&0&10"
+"Location Paths","PCIROOT(0)#PCI(1400)#USBROOT(0)#USB(10)"
+
+[Port11] : No Device Connected
+
+
+[Port12] : No Device Connected
+
+
+[Port13] : No Device Connected
+
+
+[Port14] : No Device Connected
+
+
+Smart Battery
+
+
+Battery #0
+
+"Device Name:","L22D4PA1"
+"Manufacturer Name:","Sunwoda"
+"Serial Number:","19031"
+"Unique ID:","19031SunwodaL22D4PA1"
+"Chemistry:",""
+"Designed Capacity:","71000 mWh"
+"Full Charged Capacity:","61470 mWh"
+"Wear Level:","13.4 %"
+"Cycle Count:","112"
+"Power Status:","On AC Power"
+"Current Capacity:","48880 mWh (79.5 %)"
+"Current Voltage:","16.497 V"

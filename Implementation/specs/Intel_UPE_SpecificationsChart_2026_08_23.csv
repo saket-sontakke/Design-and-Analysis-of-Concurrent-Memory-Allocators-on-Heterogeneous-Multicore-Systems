@@ -1,0 +1,125 @@
+﻿UPE | 
+08/23/2026 04:11:58 PM
+,Intel® Core™ Ultra 5 Processor 125H (18M Cache- up to 4.50 GHz)
+
+Essentials
+Product Collection,Intel® Core™ Ultra processors (Series 1)
+Code Name,Products formerly Meteor Lake
+Vertical Segment,Mobile
+Processor Number,125H
+Overall Peak TOPS (Int8),33
+
+CPU Specifications
+Total Cores,14
+# of Performance-cores,4
+# of Efficient-cores,8
+# of Low Power Efficient-cores,2
+Total Threads,18
+Max Turbo Frequency,4.5 GHz
+Performance-core Max Turbo Frequency,4.5 GHz
+Efficient-core Max Turbo Frequency,3.6 GHz
+Low Power Efficient-core Max Turbo Frequency,2.5 GHz
+Performance-core Base Frequency,1.2 GHz
+Efficient-core Base Frequency,700 MHz
+Low Power Efficient-core Base Frequency,700 MHz
+Cache,18 MB Intel® Smart Cache
+Processor Base Power,28 W
+Maximum Turbo Power,115 W
+Minimum Assured Power,20 W
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+AI Software Frameworks Supported by CPU,OpenVINO™ |  WindowsML |  ONNX RT
+CPU Lithography,Intel 4
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q4'23
+Embedded Options Available,Yes
+Use Conditions,PC/Client/Tablet
+Product Tuning (Embedded Uses),Yes
+Datasheet,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),96 GB
+Memory Types,Up to LPDDR5/X 7467 MT/sUp to DDR5 5600 MT/s
+Max # of Memory Channels,2
+ECC Memory Supported   ‡,No
+
+GPU Specifications
+GPU Name‡,Intel® Arc™ graphics
+Graphics Max Dynamic Frequency,2.2 GHz
+GPU Peak TOPS (Int8),18
+Graphics Output,eDP1.4b |  DP 2.1 UHBR20 |  HDMI 2.1 FRL
+Xe-cores,7
+Max Resolution (HDMI)‡,4096 x 2304 @ 60Hz (HDMI 2.1 TMDS)7680 x 4320 @ 60Hz (HDMI 2.1 FRL)
+Max Resolution (DP)‡,7680 x 4320 @ 60Hz
+Max Resolution (eDP - Integrated Flat Panel)‡,3840 x 2400 @ 120Hz
+DirectX* Support,12.2
+OpenGL* Support,4.6
+OpenCL* Support,3.0
+H.264 Hardware Encode/Decode,Yes
+H.265 (HEVC) Hardware Encode/Decode,Yes
+AV1 Encode/Decode,Yes
+Intel® Quick Sync Video,Yes
+# of Displays Supported ‡,4
+Device ID,0x7D55
+Intel® Deep Learning Boost (Intel® DL Boost) on GPU,Yes
+AI Software Frameworks Supported by GPU,OpenVINO™ |  WindowsML |  DirectML |  ONNX RT |  WebGPU
+
+NPU Specifications
+NPU Name‡,Intel® AI Boost
+NPU Peak TOPS (Int8),11
+Sparsity Support,Yes
+Windows Studio Effects Support,Yes
+AI Software Frameworks Supported by NPU,OpenVINO™ |  WindowsML |  DirectML |  ONNX RT
+
+Expansion Options
+Intel® Thunderbolt™ 4,Yes
+PCI Express Revision,5.0 and 4.0
+PCI Express Configurations ‡,1x8 5.0 + 3x4 4.0 + 2x4 (x1 | x2 | x4) 4.0
+Max # of PCI Express Lanes,28
+
+Package Specifications
+Sockets Supported,FCBGA2049
+Max Operating Temperature,110 °C
+Package Size,50 mm x 25 mm
+
+Advanced Technologies
+Intel® Gaussian & Neural Accelerator,3.5
+Intel® Thread Director,Yes
+Intel® Smart Sound Technology,Yes
+Intel® Wake on Voice,Yes
+Intel® High Definition Audio,Yes
+Intel® Adaptix™ Technology,Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Max Technology 3.0 ‡,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® SSE4.1 |  Intel® SSE4.2 |  Intel® AVX2
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel vPro® Eligibility ‡,Intel vPro® Essentials
+Intel® Threat Detection Technology (TDT),Yes
+Intel® Active Management Technology (AMT) ‡,No
+Intel® Standard Manageability (ISM) ‡,Yes
+Intel® Remote Platform Erase (RPE) ‡,No
+Intel® One-Click Recovery ‡,No
+Intel® Hardware Shield Eligibility ‡,Yes
+Intel® Secure Key,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption - Multi Key,No
+Intel® AES New Instructions,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® OS Guard,Yes
+Intel® Boot Guard,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Stable IT Platform Program (SIPP),No
+Intel® Virtualization Technology with Redirect Protection (VT-rp) ‡,No
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes
